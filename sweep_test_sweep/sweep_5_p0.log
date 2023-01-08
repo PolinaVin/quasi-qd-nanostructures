@@ -1,0 +1,23 @@
+Ansys Lumerical 2020 R2.4 Finite Difference Eigenmode Solver Version 7.16.2502 (Windows 64bit)
+ expires (month/day/year): 12/31/2035
+using config file: Ansys Licensing set with ANSYSLMD_LICENSE_FILE
+license host: 
+current time: Tue Mar 29 16:21:07 2022
+Running on host: LAPTOP-DTKBFHB6
+Running lms file: D:\Lumerical\v202\bin\fd-engine-msmpi.exe -t 4 -remote -hide C:/Users/polin/Documents/sweep_test_sweep/sweep_5.lms
+Running MODE Simulation
+Starting meshing
+Simulation size in gridpoints: 124 x 124 x 1
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 124 x 124 x 1
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.03125 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 124 x 124 x 1
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
